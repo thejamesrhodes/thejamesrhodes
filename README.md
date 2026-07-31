@@ -29,6 +29,4 @@ Year 13 A-Level student (Predicted A* A* A* A) interested in **aerospace enginee
 
 ---
 
-**Tools:** Embedded C • MATLAB • Python • STM32 • KiCad • SOLIDWORKS • XFLR5 • OpenVSP • Blender
-
-🎨 **Aerospace Visualisation:** https://www.artstation.com/sphinx123
+🎨 **Aerospace Visualisation:** [ArtStation Portfolio](https://www.artstation.com/sphinx123)
