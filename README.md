@@ -1,7 +1,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left" valign="middle">
-      <img src="Banner_Ship_Cropper.PNG" width="100%" style="border-radius: 8px;" alt="Banner">
+      <img src="cropped_Spaceship_Banner.jpg" width="100%" style="border-radius: 8px;" alt="Banner">
     </td>
   </tr>
 </table>
