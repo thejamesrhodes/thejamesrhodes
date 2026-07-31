@@ -6,10 +6,6 @@
   </tr>
 </table>
 
-<p align="right">
-  <code><b>@thejamesrhodes</b> | Embedded Hardware & Systems</code>
-</p>
-
 # Hi, I'm James Rhodes
 
 Year 13 A-Level student (Predicted A* A* A* A) interested in **aerospace engineering, embedded systems and guidance, navigation & control (GNC).**
