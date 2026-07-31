@@ -18,7 +18,7 @@ Year 13 A-Level student (Predicted A* A* A* A) interested in **aerospace enginee
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects:
 
 - 🚀 **Hyades** — Active roll-controlled sounding rocket using custom STM32 avionics and flight software.
 - 🛰️ **Flight Computer** — Four-layer STM32H743 avionics with GPS, IMU and USB High-Speed logging.
