@@ -10,56 +10,17 @@ Year 13 A-Level student (Predicted A* A* A* A) interested in **aerospace enginee
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Current Projects
 
-### 🚀 Hyades Active Roll Control Rocket
-Custom STM32H743 avionics, nonlinear flight control software and aerodynamic canards for an actively roll-stabilised sounding rocket.
+- 🚀 **Hyades** — Active roll-controlled sounding rocket using custom STM32 avionics and flight software.
+- 🛰️ **Flight Computer** — Four-layer STM32H743 avionics with GPS, IMU and USB High-Speed logging.
+- 📡 **MEMS Gyroscope Research** — Quantisation error investigation with custom hardware (preprint in preparation).
+- 🛠️ **Fly-Away Rail Guides** — Flight-tested 3D-printable launch rail guides for model rockets.
 
-### 🛰️ STM32 Flight Computer
-Four-layer flight computer integrating GPS, IMU, barometer, USB High-Speed logging and custom embedded software.
-
-### 📡 MEMS Gyroscope Quantisation Research
-Independent research into quantisation-induced calibration errors in low-noise MEMS gyroscopes using custom data acquisition hardware. Preprint in preparation.
-
-### 🛠️ Rocket Fly-Away Rail Guides
-Open-source, flight-tested 3D-printable fly-away rail guides eliminating permanent rail buttons for low- and mid-power rockets.
-
-➡️ **Browse the pinned repositories below for source code, CAD, hardware and documentation.**
+➡️ **See the pinned repositories below for code, CAD, hardware and documentation.**
 
 ---
 
-## 💻 Technical Skills
+**Tools:** Embedded C • MATLAB • Python • STM32 • KiCad • SOLIDWORKS • XFLR5 • OpenVSP • Blender
 
-### Programming
-
-- Embedded C
-- MATLAB
-- Python
-
-### Embedded Systems
-
-- STM32 (CubeIDE)
-- KiCad PCB Design
-- SPI, USB High-Speed
-- Electronics assembly & soldering
-
-### Engineering Software
-
-- SOLIDWORKS
-- MATLAB/Simulink
-- XFLR5
-- OpenVSP
-- Blender
-
-## 🌍 Outside Engineering
-
-Alongside engineering, I create aerospace CGI and technical visualisations in Blender.
-
-🎨 **ArtStation:** https://www.artstation.com/sphinx123
-
-Outside of engineering you'll usually find me:
-
-- 🏔️ Winter mountaineering
-- 🧗 Rock climbing
-- 💪 Strength training
-- 🎸 Electric guitar
+🎨 **Aerospace Visualisation:** https://www.artstation.com/sphinx123
