@@ -1,10 +1,22 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left" valign="middle">
-      <img src="cropped_Spaceship_Banner.JPG" width="100%" style="border-radius: 8px;" alt="Banner">
+      <img 
+        src="cropped_Spaceship_Banner.JPG" 
+        width="100%" 
+        style="border-radius: 8px;" 
+        alt="3D spaceship banner created and rendered in Blender by me"
+      >
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" style="padding-top: 8px; font-size: 14px; color: #666;">
+      <em>banner model and scene created and rendered by me in Blender.</em>
     </td>
   </tr>
 </table>
+
 
 # Hi, I'm James Rhodes
 
