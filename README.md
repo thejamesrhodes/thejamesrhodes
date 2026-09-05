@@ -20,8 +20,8 @@ Year 13 A-Level student (Predicted A* A* A* A) interested in **aerospace enginee
 
 ## Projects:
 
-- **[Canard controlled Rocket & Hyades Flight Computer](https://github.com/thejamesrhodes/hyades-flight-computer)** — Active roll-controlled sounding rocket using custom avionics and GNC software. Four-layer STM32H743 avionics with GPS, IMU, barometer and actuator power distribution.
-- **[MEMS Gyroscope Research](https://github.com/thejamesrhodes/IMU-Quantisation-research-project)** — Quantisation effects in MEMS gyroscopes (preprint in preparation).
+- **[Canard controlled Rocket & Hyades Flight Computer](https://github.com/thejamesrhodes/hyades-flight-computer)** — Active roll-controlled sounding rocket using custom avionics and GNC software. Four-layer STM32H743 avionics with GPS, IMU, barometer and actuator power distribution. Sponsored by JLCPCB.
+- **[MEMS Gyroscope Research](https://github.com/thejamesrhodes/IMU-Quantisation-research-project)** — Research into quantisation effects in rate-register MEMS gyroscopes (preprint in preparation). Utilising a custom data gathering PCB with 4 Inertial sensors and USB-HS/SD-Card for data logging.
 - **[Fly-Away Rail Guides](https://github.com/thejamesrhodes/Rocketry-Fly-Away-Rail-Guides-)** — Flight-tested 3D-printable launch rail guides.
 
 **See the pinned repositories below for code, CAD, hardware and documentation.**
