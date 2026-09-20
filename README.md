@@ -20,7 +20,7 @@
 
 # Hi, I'm James Rhodes
 
-Year 13 A-Level student (Predicted A* A* A* A) interested in **aerospace engineering, embedded systems and guidance, navigation & control (GNC).**
+Year 13 A-Level student (Predicted A* A* A* A) interested in **aerospace engineering, embedded systems and GNC (guidance, navigation & control).**
 
 ![Embedded C](https://img.shields.io/badge/Embedded-C-blue)
 ![STM32](https://img.shields.io/badge/STM32-H743-green)
