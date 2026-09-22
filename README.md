@@ -36,8 +36,6 @@ Year 13 A-Level student (Predicted A* A* A* A) interested in **aerospace enginee
 - **[MEMS Gyroscope Research](https://github.com/thejamesrhodes/IMU-Quantisation-research-project)** - Research into quantisation effects in rate-register MEMS gyroscopes (preprint in preparation). Utilising a custom data gathering PCB with 4 Inertial sensors and USB-HS/SD-Card for data logging.
 - **[Fly-Away Rail Guides](https://github.com/thejamesrhodes/Rocketry-Fly-Away-Rail-Guides-)** - Flight-tested 3D-printable launch rail guides.
 
-**See the pinned repositories below for code, CAD, hardware and documentation.**
-
 ---
 
 **Aerospace Visualisation:** [ArtStation Portfolio](https://www.artstation.com/sphinx123)
